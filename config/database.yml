@@ -1,0 +1,10 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: rest_demo
+  pool: 5
+  username: krishna
+  password: root
+  host: localhost
+
+
